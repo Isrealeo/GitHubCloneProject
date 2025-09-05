@@ -2,5 +2,6 @@
 is
 a
 new
-feature"
+feature."
+
 
